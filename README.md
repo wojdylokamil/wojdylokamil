@@ -20,5 +20,5 @@
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></div>
 <br />
 <br />
-<p align="center"><img width = '500px' src="https://github-readme-streak-stats.herokuapp.com?user=wojdylokamil&theme=dark&date_format=j%20M%5B%20Y%5D" alt="wojdylokamilstats"/></p>
-<p align="center"><img width = '500px' src="https://github-readme-stats.vercel.app/api/top-langs?username=wojdylokamil&show_icons=true&locale=en&layout=dark&theme=dark" alt = "wojdylokamilstats"/></p>
+<p align="center"><img width='500px' src="https://github-readme-streak-stats.herokuapp.com?user=wojdylokamil&theme=dark&date_format=j%20M%5B%20Y%5D" alt = "wojdylokamilstats"/></p>
+<p align="center"><img width='500px' src="https://github-readme-stats.vercel.app/api/top-langs?username=wojdylokamil&show_icons=true&locale=en&layout=dark&theme=dark" alt = "wojdylokamilstats"/></p>
