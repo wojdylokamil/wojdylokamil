@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there, I'm Kamil 👋</h1>
 
 <p align="center"> 🌱 I’m currently learning everything 🤣</p>
+![](https://komarev.com/ghpvc/?username=Wojdylokamil&color=green)
 
 <br />
 
