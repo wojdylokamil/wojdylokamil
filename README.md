@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. 👋</h1>
 
 
-<p>Welcome to my page! </br> I'm Kamil, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323338.png" width="13"/> <b>Poland</b></p>
+<p>Welcome to my page! </br> I'm Kamil from <img src="https://cdn-icons-png.flaticon.com/512/323/323338.png" width="13"/> <b>Poland</b></p>
 <!-- <h2>Things I code with</h2>
  <p align="center"> 
   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000.svg?style=for-the-badge&logo=Symfony&logoColor=white" />
